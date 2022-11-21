@@ -1,0 +1,83 @@
+{
+  "plugins\/pushover2\/core\/ajax\/pushover2.ajax.php": {
+    "401 - Accès non autorisé": "401 - Acceso no autorizado",
+    "Commande inconnue: ": "Orden desconocida: ",
+    "Equipement non Pushover2: ": "Equipo no Pushover2: ",
+    "Erreur lors de la récupération des sons: ": "Error al recuperar sonidos: ",
+    "Aucune méthode correspondante à: ": "Ningún método correspondiente a: "
+  },
+  "plugins\/pushover2\/core\/class\/pushover2.class.php": {
+    "Dernier Statut": "Estado más reciente",
+    "ID dernière requête": "ID de última consulta",
+    "ID Dernière Urgence": "Última identificación de emergencia",
+    "Confirmation Urgent": "Confirmación urgente",
+    "Confirmation par": "Confirmación por",
+    "Confirmation depuis": "Confirmación desde",
+    "Confirmation à": "Confirmación en",
+    "ID message confirmé": "ID de mensaje confirmado",
+    "Les options de la fonction ne peuvent etre null": "Las opciones de función no pueden ser nulas",
+    "Le message ne peut etre vide": "El mensaje no puede estar vacío",
+    "Fichier detecte : ": "El archivo detecta: ",
+    "Taille du fichier en Mo: ": "Tamaño del archivo en MB: ",
+    "Erreur lors de l'envoi Pushover: ": "Error al enviar Pushover: "
+  },
+  "plugins\/pushover2\/core\/php\/jeePushover2.php": {
+    "Clef API non valide, vous n'êtes pas autorisé à effectuer cette action (pushover2)": "Clave de API no válida, no se le permite realizar esta acción (pushover2)",
+    "Id equipement inconnu: ": "ID del equipo desconocido: "
+  },
+  "plugins\/pushover2\/desktop\/js\/pushover2.js": {
+    "Très basse": "Muy bajo",
+    "Basse": "Bajo",
+    "Normale": "Normal",
+    "Haute": "Alto",
+    "Urgent": "Urgente",
+    "Nom de la commande": "Nombre del pedido",
+    "Choisir une icône": "Elige un icono",
+    "Visible": "Visible",
+    "Supprimer la commande": "Eliminar orden"
+  },
+  "plugins\/pushover2\/desktop\/php\/pushover2.php": {
+    "401 - Accès non autorisé": "401 - Acceso no autorizado",
+    "Gestion": "Administración",
+    "Ajouter": "Agregar",
+    "Configuration": "Configuración",
+    "Aucun équipement Pushover trouvé, cliquer sur \"Ajouter\" pour commencer": "No se encontró ningún equipo de Pushover, haga clic en \"Agregar\" para comenzar",
+    "Rechercher": "Investigación",
+    "Equipement visible": "Equipo visible",
+    "Equipement non visible": "Equipo no visible",
+    "Configuration avancée": "Configuración avanzada",
+    "Dupliquer": "Duplicado",
+    "Sauvegarder": "Guardar",
+    "Supprimer": "Borrar",
+    "Equipement": "Equipo",
+    "Commandes": "Comandos",
+    "Paramètres généraux": "Configuración general",
+    "Nom de l'équipement": "Nombre del equipo",
+    "Objet parent": "Objeto primario",
+    "Aucun": "Ninguno",
+    "Catégorie": "Categoría",
+    "Activer": "Activar",
+    "Visible": "Visible",
+    "Paramètres spécifiques": "Parámetros específicos",
+    "Clé utilisateur ou Groupe PUSHOVER": "Clave de usuario o grupo PUSHOVER",
+    "Informations": "Noticia",
+    "Description": "Descripción",
+    "Ajouter une commande": "Agregar un pedido",
+    "Nom": "Nombre",
+    "Type": "Tipo",
+    "Paramètres": "Parámetros",
+    "Etat": "Estado",
+    "Visible sur la page utilisateur / page du groupe de PUSHOVER": "Visible en la página de usuario / página de grupo de PUSHOVER",
+    "Token de l'application": "Token de aplicación",
+    "Appareil": "Dispositivo",
+    "Priorité": "Prioridad",
+    "Relancer": "Revivir",
+    "Echéance": "Fecha tope",
+    "Sonnerie": "Anillamiento",
+    "Options": "Opciones",
+    "Actions": "Acciones"
+  },
+  "info.json": {
+    "Permet d'utiliser Pushover pour envoyer des notifications": "Usar Pushover para enviar notificaciones"
+  }
+}

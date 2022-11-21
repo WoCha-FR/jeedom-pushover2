@@ -1,0 +1,83 @@
+{
+  "plugins\/pushover2\/core\/ajax\/pushover2.ajax.php": {
+    "401 - Accès non autorisé" : "401 - Accès non autorisé",
+    "Commande inconnue: " : "Commande inconnue: ",
+    "Equipement non Pushover2: " : "Equipement non Pushover2: ",
+    "Erreur lors de la récupération des sons: " : "Erreur lors de la récupération des sons: ",
+    "Aucune méthode correspondante à: " : "Aucune méthode correspondante à: "
+  },
+  "plugins\/pushover2\/core\/class\/pushover2.class.php": {
+    "Dernier Statut" : "Dernier Statut",
+    "ID dernière requête" : "ID dernière requête",
+    "ID Dernière Urgence" : "ID Dernière Urgence",
+    "Confirmation Urgent" : "Confirmation Urgent",
+    "Confirmation par" : "Confirmation par",
+    "Confirmation depuis" : "Confirmation depuis",
+    "Confirmation à" : "Confirmation à",
+    "ID message confirmé" : "ID message confirmé",
+    "Les options de la fonction ne peuvent etre null" : "Les options de la fonction ne peuvent etre null",
+    "Le message ne peut etre vide" : "Le message ne peut etre vide",
+    "Fichier detecte : " : "Fichier detecte: ",
+    "Taille du fichier en Mo: " : "Taille du fichier en Mo: ",
+    "Erreur lors de l'envoi Pushover: " : "Erreur lors de l'envoi Pushover: "
+  },
+  "plugins\/pushover2\/core\/php\/jeePushover2.php": {
+    "Clef API non valide, vous n'êtes pas autorisé à effectuer cette action (pushover2)" : "Clef API non valide, vous n'êtes pas autorisé à effectuer cette action (pushover2)",
+    "Id equipement inconnu: " : "Id equipement inconnu: "
+  },
+  "plugins\/pushover2\/desktop\/js\/pushover2.js": {
+    "Très basse" : "Très basse",
+    "Basse" : "Basse",
+    "Normale" : "Normale",
+    "Haute" : "Haute",
+    "Urgent" : "Urgent",
+    "Nom de la commande" : "Nom de la commande",
+    "Choisir une icône" : "Choisir une icône",
+    "Visible" : "Visible",
+    "Supprimer la commande" : "Supprimer la commande"
+  },
+  "plugins\/pushover2\/desktop\/php\/pushover2.php": {
+    "401 - Accès non autorisé" : "401 - Accès non autorisé",
+    "Gestion": "Gestion",
+    "Ajouter": "Ajouter",
+    "Configuration": "Configuration",
+    "Aucun équipement Pushover trouvé, cliquer sur \"Ajouter\" pour commencer" : "Aucun équipement Pushover trouvé, cliquer sur \"Ajouter\" pour commencer",
+    "Rechercher": "Rechercher",
+    "Equipement visible": "Equipement visible",
+    "Equipement non visible": "Equipement non visible",
+    "Configuration avancée": "Configuration avancée",
+    "Dupliquer": "Dupliquer",
+    "Sauvegarder": "Sauvegarder",
+    "Supprimer": "Supprimer",
+    "Equipement": "Equipement",
+    "Commandes": "Commandes",
+    "Paramètres généraux": "Paramètres généraux",
+    "Nom de l'équipement": "Nom de l'équipement",
+    "Objet parent": "Objet parent",
+    "Aucun": "Aucun",
+    "Catégorie": "Catégorie",
+    "Activer": "Activer",
+    "Visible": "Visible",
+    "Paramètres spécifiques": "Paramètres spécifiques",
+    "Clé utilisateur ou Groupe PUSHOVER" : "Clé utilisateur ou Groupe PUSHOVER",
+    "Informations": "Informations",
+    "Description": "Description",
+    "Ajouter une commande": "Ajouter une commande",
+    "Nom": "Nom",
+    "Type": "Type",
+    "Paramètres": "Paramètres",
+    "Etat": "Etat",
+    "Visible sur la page utilisateur / page du groupe de PUSHOVER" : "Visible sur la page utilisateur / page du groupe de PUSHOVER",
+    "Token de l'application" : "Token de l'application",
+    "Appareil" : "Appareil",
+    "Priorité" : "Priorité",
+    "Relancer" : "Relancer",
+    "Echéance" : "Echéance",
+    "Sonnerie" : "Sonnerie",
+    "Options" : "Options",
+    "Actions" : "Actions"
+  },
+  "info.json": {
+    "Permet d'utiliser Pushover pour envoyer des notifications" : "Permet d'utiliser Pushover pour envoyer des notifications"
+  }
+}

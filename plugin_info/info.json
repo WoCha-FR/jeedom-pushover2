@@ -1,0 +1,18 @@
+{
+  "id" : "pushover2",
+  "name" : "Pushover2",
+  "description": "Permet d'utiliser Pushover pour envoyer des notifications",
+  "licence" : "AGPL",
+  "author" : "WoCha",
+  "require" : "4.0",
+  "category" : "communication",
+  "documentation" : "https://wocha-fr.github.io/jeedom-pushover2/#language#/",
+  "documentation_beta" : "https://wocha-fr.github.io/jeedom-pushover2/#language#/betaindex",
+  "changelog" : "https://wocha-fr.github.io/jeedom-pushover2/#language#/changelog",
+  "changelog_beta" : "https://wocha-fr.github.io/jeedom-pushover2/#language#/betachangelog",
+  "issue": "https://github.com/WoCha-FR/jeedom-pushover2/issues",
+  "hasDependency" : false,
+  "hasOwnDeamon" : false,
+  "language": ["fr_FR","en_US","es_ES"],
+  "compatibility": ["miniplus", "smart", "docker", "rpi", "diy", "v4", "atlas"]
+}

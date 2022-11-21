@@ -1,0 +1,83 @@
+{
+  "plugins\/pushover2\/core\/ajax\/pushover2.ajax.php": {
+    "401 - Accès non autorisé": "401 - Unauthorized Access",
+    "Commande inconnue: ": "Unknown order: ",
+    "Equipement non Pushover2: ": "Non-Pushover2 equipment: ",
+    "Erreur lors de la récupération des sons: ": "Error retrieving sounds: ",
+    "Aucune méthode correspondante à: ": "No method corresponding to: "
+  },
+  "plugins\/pushover2\/core\/class\/pushover2.class.php": {
+    "Dernier Statut": "Latest status",
+    "ID dernière requête": "Last query ID",
+    "ID Dernière Urgence": "Last Emergency ID",
+    "Confirmation Urgent": "Confirmation Urgent",
+    "Confirmation par": "Confirmation by",
+    "Confirmation depuis": "Confirmation since",
+    "Confirmation à": "Confirmation at",
+    "ID message confirmé": "Message ID confirmed",
+    "Les options de la fonction ne peuvent etre null": "Function options cannot be null",
+    "Le message ne peut etre vide": "The message cannot be empty",
+    "Fichier detecte : ": "File detects: ",
+    "Taille du fichier en Mo: ": "File size in MB: ",
+    "Erreur lors de l'envoi Pushover: ": "Error sending Pushover: "
+  },
+  "plugins\/pushover2\/core\/php\/jeePushover2.php": {
+    "Clef API non valide, vous n'êtes pas autorisé à effectuer cette action (pushover2)": "Invalid API key, you are not allowed to perform this action (pushover2)",
+    "Id equipement inconnu: ": "Equipment id unknown: "
+  },
+  "plugins\/pushover2\/desktop\/js\/pushover2.js": {
+    "Très basse": "Very low",
+    "Basse": "Bass",
+    "Normale": "Normal",
+    "Haute": "High",
+    "Urgent": "Urgent",
+    "Nom de la commande": "Order Name",
+    "Choisir une icône": "Choose an icon",
+    "Visible": "Visible",
+    "Supprimer la commande": "Delete Order"
+  },
+  "plugins\/pushover2\/desktop\/php\/pushover2.php": {
+    "401 - Accès non autorisé": "401 - Unauthorized Access",
+    "Gestion": "Management",
+    "Ajouter": "Add",
+    "Configuration": "Configuration",
+    "Aucun équipement Pushover trouvé, cliquer sur \"Ajouter\" pour commencer": "No Pushover equipment found, click \"Add\" to get started",
+    "Rechercher": "Research",
+    "Equipement visible": "Visible equipment",
+    "Equipement non visible": "Equipment not visible",
+    "Configuration avancée": "Advanced configuration",
+    "Dupliquer": "Duplicate",
+    "Sauvegarder": "To save",
+    "Supprimer": "Delete",
+    "Equipement": "Equipment",
+    "Commandes": "Commands",
+    "Paramètres généraux": "General settings",
+    "Nom de l'équipement": "Equipment Name",
+    "Objet parent": "Parent object",
+    "Aucun": "None",
+    "Catégorie": "Category",
+    "Activer": "Activate",
+    "Visible": "Visible",
+    "Paramètres spécifiques": "Specific parameters",
+    "Clé utilisateur ou Groupe PUSHOVER": "User Key or PUSHOVER Group",
+    "Informations": "News",
+    "Description": "Description",
+    "Ajouter une commande": "Add an order",
+    "Nom": "Name",
+    "Type": "Type",
+    "Paramètres": "Parameters",
+    "Etat": "State",
+    "Visible sur la page utilisateur / page du groupe de PUSHOVER": "Visible on the user page / group page of PUSHOVER",
+    "Token de l'application": "App Token",
+    "Appareil": "Device",
+    "Priorité": "Priority",
+    "Relancer": "Revive",
+    "Echéance": "Deadline",
+    "Sonnerie": "Ringing",
+    "Options": "Options",
+    "Actions": "Actions"
+  },
+  "info.json": {
+    "Permet d'utiliser Pushover pour envoyer des notifications": "Use Pushover to send notifications"
+  }
+}
