@@ -160,7 +160,7 @@ $eqLogics = eqLogic::byType($plugin->getId());
           <table id="table_cmd" class="table table-bordered table-condensed">
             <thead>
               <tr>
-                <th class="hidden-xs" style="min-width:30px;width:40px;">ID</th>
+                <th class="hidden-xs" style="min-width:50px;width:60px;">ID</th>
                 <th style="min-width:150px;width:240px;">{{Nom}}</th>
                 <th style="min-width:200px;width:240px;">{{Token de l'application}}</th>
                 <th style="min-width:50px;width:125px;">{{Appareil}}</th>
@@ -182,7 +182,7 @@ $eqLogics = eqLogic::byType($plugin->getId());
   </div><!-- /.eqLogic -->
 </div><!-- /.row row-overflow -->
 
-<!-- Inclusion du fichier javascript du plugin (dossier, nom_du_fichier, extension_du_fichier, id_du_plugin) -->
-<?php include_file('desktop', 'pushover2', 'js', 'pushover2');?>
-<!-- Inclusion du fichier javascript du core - NE PAS MODIFIER NI SUPPRIMER -->
-<?php include_file('core', 'plugin.template', 'js');?>
+<?php 
+include_file('desktop', 'pushover2', 'js', 'pushover2');
+include_file('core', 'plugin.template', 'js');
+?>
