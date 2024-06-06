@@ -114,7 +114,7 @@ function addCmdToTable(_cmd) {
   tr += '<td class="hidden-xs">'
   tr += '<span class="cmdAttr" data-l1key="id"></span>'
   tr += '<input class="cmdAttr" data-l1key="type" style="display:none;" />'
-  tr += '<input class="cmdAttr" data-l1key="subtype" style="display:none;" />'
+  tr += '<input class="cmdAttr" data-l1key="subType" style="display:none;" />'
   tr += '</td>'
   tr += '<td>'
   tr += '<div class="input-group">'
@@ -165,8 +165,8 @@ function addCmdToTable(_cmd) {
     $('#table_cmd tbody tr:last .cmdAttr[data-l1key=type]').value('action')
   }
   if (isset(_cmd.subType)) {
-    $('#table_cmd tbody tr:last .cmdAttr[data-l1key=subtype]').value(init(_cmd.subType))
+    $('#table_cmd tbody tr:last .cmdAttr[data-l1key=subType]').value(init(_cmd.subType))
   } else {
-    $('#table_cmd tbody tr:last .cmdAttr[data-l1key=subtype]').value('message')
+    $('#table_cmd tbody tr:last .cmdAttr[data-l1key=subType]').value('message')
   }
 }
